@@ -132,9 +132,9 @@ section {
 
 .contact-item i {
     font-size: 1.5rem;
-    color: #fdb515; /* accent color */
+    color: #b300ff; /* accent color */
 }
 
 .contact-item:hover {
-    color: #fdb515;
+    color: #b300ff;
 }
